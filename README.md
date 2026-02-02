@@ -1,7 +1,3 @@
-Understood. Here is a **strictly professional, clean GitHub `README.md`** with no emojis, no hype language, and no AI-style phrasing. You can paste this directly into your repository.
-
----
-
 # Student Management System (C)
 
 A menu-driven **Student Management System** implemented in **C** using **binary file handling**.
