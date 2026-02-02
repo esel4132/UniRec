@@ -1,0 +1,2 @@
+# UniRec
+Student Management System
